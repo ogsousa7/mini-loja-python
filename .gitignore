@@ -1,0 +1,12 @@
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# Dados locais da loja
+loja.json
+
+# Credenciais, caso sejam usadas futuramente
+.env

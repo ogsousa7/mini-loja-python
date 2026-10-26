@@ -1,0 +1,3 @@
+produtos = []
+
+historico_vendas = []
